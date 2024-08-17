@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\ProjetoIrmaAdelaide\executavel\ProjetoIrmaAdelaide.pdb
+C:\Users\User\Desktop\ProjetoIrmaAdelaide\executavel\D3DCompiler_47_cor3.dll
+C:\Users\User\Desktop\ProjetoIrmaAdelaide\executavel\PenImc_cor3.dll
+C:\Users\User\Desktop\ProjetoIrmaAdelaide\executavel\PresentationNative_cor3.dll
+C:\Users\User\Desktop\ProjetoIrmaAdelaide\executavel\vcruntime140_cor3.dll
+C:\Users\User\Desktop\ProjetoIrmaAdelaide\executavel\wpfgfx_cor3.dll
+C:\Users\User\Desktop\ProjetoIrmaAdelaide\executavel\ProjetoIrmaAdelaide.exe
